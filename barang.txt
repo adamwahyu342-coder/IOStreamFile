@@ -1,0 +1,5 @@
+Laptop Asus;8500000.0;10
+Mouse Wireless;150000.0;25
+Keyboard Mechanical;450000.0;15
+Headset Gaming;350000.0;20
+Smartphone;3000000.0;8
